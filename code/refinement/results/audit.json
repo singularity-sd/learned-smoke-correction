@@ -1,0 +1,78 @@
+{
+  "scenes_verified": 64,
+  "timings_verified": 120320,
+  "sensitivity_grid": 192,
+  "sensitivity_substeps": 8,
+  "subset": [
+    {
+      "seed": 6000,
+      "errors": {
+        "learned": 0.023591224030784452,
+        "same_cost_classic": 0.02634879639572713,
+        "original_reference": 0.014451418812510476
+      }
+    },
+    {
+      "seed": 6001,
+      "errors": {
+        "learned": 0.04990293697203032,
+        "same_cost_classic": 0.05183261146999069,
+        "original_reference": 0.016770677150139673
+      }
+    },
+    {
+      "seed": 6002,
+      "errors": {
+        "learned": 0.03525922447543912,
+        "same_cost_classic": 0.038538668853142125,
+        "original_reference": 0.01885704201717933
+      }
+    },
+    {
+      "seed": 6003,
+      "errors": {
+        "learned": 0.025084140476046634,
+        "same_cost_classic": 0.029112601184393128,
+        "original_reference": 0.015667389042644322
+      }
+    },
+    {
+      "seed": 6032,
+      "errors": {
+        "learned": 0.035323694318634684,
+        "same_cost_classic": 0.03382975038276115,
+        "original_reference": 0.008870784207903997
+      }
+    },
+    {
+      "seed": 6033,
+      "errors": {
+        "learned": 0.03640198170833155,
+        "same_cost_classic": 0.03795703344089946,
+        "original_reference": 0.008265949836706633
+      }
+    },
+    {
+      "seed": 6034,
+      "errors": {
+        "learned": 0.02410934510779857,
+        "same_cost_classic": 0.024252848879733755,
+        "original_reference": 0.009002770687464636
+      }
+    },
+    {
+      "seed": 6035,
+      "errors": {
+        "learned": 0.02187896490404268,
+        "same_cost_classic": 0.029239090648018246,
+        "original_reference": 0.011616035709618078
+      }
+    }
+  ],
+  "means": {
+    "learned": 0.0314439389991385,
+    "same_cost_classic": 0.03388892515683321,
+    "original_reference": 0.012937758433020892
+  },
+  "relative_gain_vs_same_cost": 0.07214705531024246
+}

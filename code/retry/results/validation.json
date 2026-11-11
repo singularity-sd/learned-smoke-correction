@@ -1,0 +1,60 @@
+{
+  "candidates": [
+    {
+      "method": "maccormack",
+      "resolution": 96,
+      "strength": 0.0,
+      "rmse": 0.04170635906640779,
+      "median_ms": 1.8877499969676137
+    },
+    {
+      "method": "learned",
+      "resolution": 64,
+      "strength": 0.5,
+      "rmse": 0.06455332120522746,
+      "median_ms": 0.5145500181242824
+    },
+    {
+      "method": "learned",
+      "resolution": 64,
+      "strength": 1.0,
+      "rmse": 0.061888041613599974,
+      "median_ms": 0.5082999996375293
+    },
+    {
+      "method": "learned",
+      "resolution": 64,
+      "strength": 1.5,
+      "rmse": 0.07575081846223244,
+      "median_ms": 0.5102999857626855
+    },
+    {
+      "method": "learned",
+      "resolution": 96,
+      "strength": 0.5,
+      "rmse": 0.06059178396092746,
+      "median_ms": 0.7990499725565314
+    },
+    {
+      "method": "learned",
+      "resolution": 96,
+      "strength": 1.0,
+      "rmse": 0.05920961117733042,
+      "median_ms": 0.7990500016603619
+    },
+    {
+      "method": "learned",
+      "resolution": 96,
+      "strength": 1.5,
+      "rmse": 0.06502661202381206,
+      "median_ms": 0.7936999900266528
+    }
+  ],
+  "chosen": {
+    "method": "learned",
+    "resolution": 96,
+    "strength": 1.0,
+    "rmse": 0.05920961117733042,
+    "median_ms": 0.7990500016603619
+  }
+}
